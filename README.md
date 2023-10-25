@@ -2,6 +2,10 @@
 
 This is a front-end project that consists of three main files and an `img` directory. The project aims to create a simple web page with HTML, JavaScript, and CSS.
 
+## *PROTOTYPE* :
+
+[*www.frontendDEV101.com*](https://othmansalahi.github.io/front-end_DEV101/)
+
 ## Project Structure :
 
 The project has the following structure:
