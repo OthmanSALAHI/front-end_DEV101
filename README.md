@@ -5,10 +5,10 @@ This is a front-end project that consists of three main files and an `img` direc
 ## Project Structure :
 
 The project has the following structure:
-* [index.html]()
-* [index.js]()
-* [style.css]()
-* [img/]()
+* [index.html](https://github.com/OthmanSALAHI/front-end_DEV101/blob/master/index.htm)
+* [index.js](https://github.com/OthmanSALAHI/front-end_DEV101/blob/master/index.js)
+* [style.css](https://github.com/OthmanSALAHI/front-end_DEV101/blob/master/style.css)
+* [img/](https://github.com/OthmanSALAHI/front-end_DEV101/tree/master/img)
 
 ### Project files :
 - `index.html`: This file serves as the main HTML file of the project. It contains the structure and content of the web page.
