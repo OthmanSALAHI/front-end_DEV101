@@ -470,3 +470,12 @@ body{
         padding: 20px;
 }
 }
+footer {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  #copyright::before {
+    content: "© ";
+  }
+  
